@@ -63,4 +63,5 @@ public class JazS22985NbpEntity {
     public void setCode(String code) {
         this.code = code;
     }
+
 }
